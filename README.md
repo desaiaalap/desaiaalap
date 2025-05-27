@@ -30,7 +30,7 @@
   [🔗 GitHub Repo](https://github.com/desaiaalap/credit-risk-modeling) – Compared ANN, Logistic Regression, XGBoost with SHAP and LIME interpretability
 
 - 📬 **MailMate – Email Summarizer using NLP**  
-  [🔗 GitHub Repo](https://github.com/desaiaalap/mailmate-nlp-pipeline) – Built with GCP, Airflow, NER for summarizing large email volumes
+  [🔗 GitHub Repo](https://github.com/pshkrh/email-assistant) – Built with GCP, Airflow, NER for summarizing large email volumes
 
 ---
 
