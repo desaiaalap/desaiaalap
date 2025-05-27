@@ -37,4 +37,4 @@
 ## 📫 Let's Connect
 - 🔗 [LinkedIn](https://www.linkedin.com/in/aalap-desai/)
 - 🌐 [Portfolio](https://aalapdesai6.wixsite.com/the-curious-coder)
-- 📧 **Email:** aalapdesai0604@ggmail.com
+
