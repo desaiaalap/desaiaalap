@@ -1,55 +1,56 @@
 # 👋 Hi, I'm Aalap Desai
 
-🎓 MS in Data Analytics Engineering @ Northeastern University  
-🔍 Actively seeking roles in **Data Science | ML Engineering | Data Analytics**  
-📊 Passionate about turning data into actionable insights and building intelligent systems that blend performance, prediction, and storytelling.
+🏎️ Motorsports Data Scientist @ ALT Sports Data
+🎓 MS in Data Analytics Engineering, Northeastern University
+📊 Passionate about turning sports chaos into predictive systems — from F1 race strategy models to cricket scouting dashboards.
 
----
+💼 What I Do
 
-## 💼 What I Do
+🧠 Build and evaluate ML models (Classification, Regression, XGBoost, LSTM)
 
-- 🧠 Build and evaluate ML models (Classification, Regression, XGBoost, LSTM)
-- 📈 Design dashboards and data stories using Power BI, Tableau, and Python
-- 🛠️ Clean, wrangle, and preprocess messy real-world data
-- 📊 Explore sports data through open-source analytics pipelines
+📈 Develop dashboards and data stories in Tableau, Power BI, and Python
 
----
+🛠️ Engineer pipelines: cleaning, wrangling, and automating messy real-world data
 
-## 🧰 Tools & Technologies
+🏏 Explore sports analytics across Formula 1, cricket, and beyond
 
-**Languages:** Python, SQL, R  
-**ML & AI:** Scikit-learn, TensorFlow, PyTorch, XGBoost  
-**Data Tools:** Pandas, NumPy, Matplotlib, Seaborn, Airflow, MLflow  
-**Cloud & DevOps:** GCP, Azure, Docker, Kubernetes  
-**Visualization:** Power BI, Tableau
+🧰 Tools & Technologies
 
----
+Languages: Python, SQL, R
+ML & AI: Scikit-learn, TensorFlow, PyTorch, XGBoost
+Data Tools: Pandas, NumPy, Matplotlib, Seaborn, Airflow, MLflow
+Cloud & DevOps: GCP, Azure, Docker, Kubernetes
+Visualization: Tableau, Power BI
 
-## 📂 Featured Projects
+📂 Featured Projects
+🏎️ Formula 1 Race Strategy Optimization
 
-### 🏎️ [Formula 1 Race Strategy Optimization](https://github.com/desaiaalap/f1-race-prediction-optimization)  
 Predict race outcomes and optimize pit stops using FastF1 data, weather, and machine learning.
 
-### 🧠 [Credit Risk Classification](https://github.com/desaiaalap/credit-risk-models)  
-Compare deep learning (ANN) with traditional ML models (LogReg, XGBoost) using SHAP & LIME for interpretability.
+🧠 Credit Risk Classification
 
-### 📬 [MailMate – NLP-Powered Email Assistant](https://github.com/desaiaalap/MailMate)  
+Compare ANN with traditional ML models (LogReg, XGBoost) using SHAP & LIME for interpretability.
+
+📬 MailMate – NLP Email Assistant
+
 Automates email triage and summarization using Gemini, NER, and Airflow on GCP.
 
----
+🏏 Sports Analytics Lab (Ongoing)
 
-## 🏏 Sports Analytics Lab (Ongoing)
+Building a Cricket Analytics Lab from scratch:
 
-Currently building a **Cricket Analytics Lab** from scratch:  
-- YAML → CSV pipelines  
-- Scouting dashboards  
-- Match prediction models  
-📖 [Follow the series on Medium →](https://medium.com/@aalapdesai0604/cricket-analytics-lab-day-1-03fd2bdc1f49)
+Data pipelines (YAML → CSV)
 
----
+Scouting dashboards
 
-## 📫 Let's Connect
+Match prediction models
+📖 Follow the series on Medium →
 
+📫 Let’s Connect
+
+🌐 LinkedIn
+🐙 GitHub
+✍️ Medium
 - [🔗 LinkedIn](https://www.linkedin.com/in/aalapdesai0604/)  
 - [🌐 Portfolio](https://desaiaalap.github.io)  
 - [📸 Instagram (@datameetsgame)](https://www.instagram.com/datameetsgame)  
